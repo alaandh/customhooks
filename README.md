@@ -1,1 +1,1 @@
-Hooks que pueden servir de ayuda o apunte para cualquier proyecto.
+Hooks que pueden servir de ayudab para cualquier proyecto.
